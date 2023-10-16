@@ -1,6 +1,8 @@
 
 KARAN MOR
 Aspiring Data Scientist
+Major: Data Science
+Graduation Year: 2027
 
 
 PRESENT AFFILITION
